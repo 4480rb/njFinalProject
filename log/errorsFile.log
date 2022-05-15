@@ -1,0 +1,167 @@
+error: Apr/26/2022 15:34:40:undefined
+error: Apr/26/2022 15:34:40:undefined
+error: Apr/26/2022 16:13:10:undefined
+error: Apr/26/2022 16:13:10:undefined
+error: Apr/26/2022 16:43:37:undefined
+error: Apr/26/2022 16:43:37:undefined
+
+error: Apr/26/2022 19:50:58:auchhh!! 
+info: Apr/26/2022 19:56:41:hello from my server on port 3015 
+info: Apr/26/2022 19:59:04:hello from my server on port 3015 
+error: Apr/26/2022 20:00:23:model is not defined 
+error: Apr/26/2022 20:00:23:model is not defined 
+info: Apr/26/2022 20:02:50:hello from my server on port 3015 
+info: Apr/26/2022 20:04:26:hello from my server on port 3015 
+error: Apr/26/2022 20:04:29:Cannot populate path `productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: Apr/26/2022 20:04:29:Cannot populate path `productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+info: Apr/26/2022 20:06:08:hello from my server on port 3015 
+info: Apr/26/2022 20:07:41:hello from my server on port 3015 
+info: Apr/26/2022 20:15:06:hello from my server on port 3015 
+info: Apr/27/2022 08:33:16:hello from my server on port 3015 
+info: Apr/27/2022 08:37:23:hello from my server on port 3015 
+info: Apr/27/2022 08:39:02:hello from my server on port 3015 
+info: Apr/27/2022 08:39:52:hello from my server on port 3015 
+info: Apr/27/2022 08:44:09:hello from my server on port 3015 
+info: Apr/27/2022 08:45:03:hello from my server on port 3015 
+info: Apr/27/2022 08:47:23:hello from my server on port 3015 
+info: Apr/27/2022 08:49:06:hello from my server on port 3015 
+info: Apr/27/2022 10:39:10:hello from my server on port 3015 
+info: Apr/27/2022 10:39:58:hello from my server on port 3015 
+info: Apr/27/2022 10:40:09:hello from my server on port 3015 
+info: Apr/27/2022 10:41:07:hello from my server on port 3015 
+info: Apr/27/2022 10:41:43:hello from my server on port 3015 
+info: Apr/27/2022 10:45:07:hello from my server on port 3015 
+info: Apr/27/2022 10:45:53:hello from my server on port 3015 
+info: Apr/27/2022 10:47:50:hello from my server on port 3015 
+info: Apr/27/2022 10:48:59:hello from my server on port 3015 
+info: Apr/27/2022 10:50:45:hello from my server on port 3015 
+info: Apr/27/2022 10:51:44:hello from my server on port 3015 
+info: Apr/27/2022 10:55:54:hello from my server on port 3015 
+info: Apr/27/2022 11:08:44:hello from my server on port 3015 
+info: Apr/27/2022 11:10:06:hello from my server on port 3015 
+error: Apr/27/2022 11:13:49:model is not defined 
+error: Apr/27/2022 11:13:49:model is not defined 
+info: Apr/27/2022 11:16:33:hello from my server on port 3015 
+info: Apr/27/2022 11:18:00:hello from my server on port 3015 
+info: Apr/27/2022 12:00:24:hello from my server on port 3015 
+info: Apr/27/2022 12:01:26:hello from my server on port 3015 
+info: Apr/27/2022 12:03:12:hello from my server on port 3015 
+info: Apr/27/2022 12:04:38:hello from my server on port 3015 
+info: Apr/27/2022 12:05:17:hello from my server on port 3015 
+info: Apr/27/2022 12:06:06:hello from my server on port 3015 
+info: Apr/27/2022 12:12:56:hello from my server on port 3015 
+info: Apr/27/2022 12:22:09:hello from my server on port 3015 
+info: Apr/27/2022 12:27:27:hello from my server on port 3015 
+error: Apr/27/2022 14:39:14:model is not defined 
+error: Apr/27/2022 14:56:51:res.Status is not a function 
+error: Apr/27/2022 14:58:58:res.Status is not a function 
+error: Apr/27/2022 15:00:02:res.Status is not a function 
+error: Apr/27/2022 15:07:52:res.Status is not a function 
+error: Apr/27/2022 15:09:04:res.Status is not a function 
+error: Apr/27/2022 15:12:30:res.Status is not a function 
+error: Apr/27/2022 15:13:23:res.Status is not a function 
+error: Apr/27/2022 15:41:51:buuu 
+error: Apr/27/2022 15:53:25:buuu 
+error: Apr/27/2022 16:03:03:Cannot populate path `productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: Apr/27/2022 16:08:49:buuu 
+error: May/01/2022 16:03:12:"orderItems".populate is not a function 
+error: May/01/2022 16:06:31:Cannot populate path `productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/01/2022 16:08:27:Cannot populate path `productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/01/2022 17:35:10:Unexpected token , in JSON at position 1234 
+error: May/01/2022 17:36:19:Unexpected token , in JSON at position 1234 
+error: May/01/2022 17:36:30:Unexpected token , in JSON at position 1234 
+error: May/01/2022 18:48:51:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 13:27:04:Schema hasn't been registered for model "orders".
+Use mongoose.model(name, schema) 
+error: May/02/2022 13:59:28:OrderModel.find(...).populat is not a function 
+error: May/02/2022 15:25:20:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 15:25:25:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 15:25:35:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 15:27:27:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 15:31:26:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 15:32:31:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 15:44:11:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 15:46:29:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 15:46:37:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 15:47:00:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 15:47:12:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 15:47:45:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 16:14:50:User validation failed: password: Path `password` (0) is less than minimum allowed value (4)., email: this email is already exist please enter another email 
+error: May/02/2022 16:14:52:User validation failed: password: Path `password` (0) is less than minimum allowed value (4)., email: this email is already exist please enter another email 
+error: May/02/2022 16:14:52:User validation failed: password: Path `password` (0) is less than minimum allowed value (4)., email: this email is already exist please enter another email 
+error: May/02/2022 16:14:52:User validation failed: password: Path `password` (0) is less than minimum allowed value (4)., email: this email is already exist please enter another email 
+error: May/02/2022 16:14:52:User validation failed: password: Path `password` (0) is less than minimum allowed value (4)., email: this email is already exist please enter another email 
+error: May/02/2022 16:14:53:User validation failed: password: Path `password` (0) is less than minimum allowed value (4)., email: this email is already exist please enter another email 
+error: May/02/2022 16:17:28:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 16:19:13:Cast to Number failed for value "ssss" (type string) at path "password" for model "User" 
+error: May/02/2022 16:19:18:Cast to Number failed for value "ssss" (type string) at path "password" for model "User" 
+error: May/02/2022 16:21:21:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 16:21:29:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 16:21:42:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 16:21:57:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 16:22:14:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 16:42:14:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 16:52:03:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/02/2022 17:05:05:Cast to Number failed for value "jjjj" (type string) at path "password" for model "User" 
+error: May/02/2022 17:05:15:Cast to Number failed for value "jjjj" (type string) at path "password" for model "User" 
+error: May/02/2022 17:05:31:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:32:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:32:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:33:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:33:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:33:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:34:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:35:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:35:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:35:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:35:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:35:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:36:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:36:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:36:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:38:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:40:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:40:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:05:41:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` is required. 
+error: May/02/2022 17:26:35:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 17:27:28:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "vvvv@gmail.com" } 
+error: May/02/2022 18:50:58:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "vvvv@gmail.com" } 
+error: May/02/2022 18:51:58:User validation failed: email: this email is already exist please enter another email 
+error: May/02/2022 18:53:00:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "gggg" } 
+error: May/02/2022 19:00:53:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "www" } 
+error: May/02/2022 19:00:55:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "www" } 
+error: May/02/2022 19:00:56:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "www" } 
+error: May/02/2022 19:00:56:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "www" } 
+error: May/02/2022 19:00:56:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "www" } 
+error: May/02/2022 19:00:56:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "www" } 
+error: May/02/2022 19:00:56:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "www" } 
+error: May/02/2022 19:00:59:User validation failed: name: Path `name` is required., password: Path `password` is required., email: Path `email` (``) is shorter than the minimum allowed length (3). 
+error: May/02/2022 19:59:36:Cannot populate path `orders.productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/02/2022 20:00:10:Cannot populate path `orders.productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/02/2022 20:01:19:Cannot populate path `orders.productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/02/2022 20:01:22:Cannot populate path `orders.productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/02/2022 20:02:23:Cannot populate path `orders.orderItems.productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/02/2022 20:03:03:Cannot populate path `orders[0].orderItems.productId` because it is not in your schema. Set the `strictPopulate` option to false to override. 
+error: May/02/2022 20:15:32:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "tttt" } 
+error: May/02/2022 21:02:20:User validation failed: email: this email is not valid 
+error: May/02/2022 21:03:37:User validation failed: email: this email is not valid 
+error: May/02/2022 21:04:31:User validation failed: email: this email is not valid 
+error: May/02/2022 21:04:52:User validation failed: email: this email is not valid 
+error: May/03/2022 13:29:09:User validation failed: name: Path `name` (`n`) is shorter than the minimum allowed length (2). 
+error: May/03/2022 13:30:53:User validation failed: name: Path `name` (`j`) is shorter than the minimum allowed length (2)., email: Path `email` (`6`) is shorter than the minimum allowed length (3). 
+error: May/03/2022 13:37:10:User validation failed: name: Path `name` (`j`) is shorter than the minimum allowed length (2)., email: Path `email` (`j`) is shorter than the minimum allowed length (3). 
+error: May/03/2022 13:45:43:User validation failed: name: Path `name` (`j`) is shorter than the minimum allowed length (2)., email: Path `email` (`j`) is shorter than the minimum allowed length (3). 
+error: May/03/2022 13:45:43:User validation failed: name: Path `name` (`j`) is shorter than the minimum allowed length (2)., email: Path `email` (`j`) is shorter than the minimum allowed length (3). 
+error: May/03/2022 13:46:28:User validation failed: name: Path `name` (`ח`) is shorter than the minimum allowed length (2)., email: Path `email` (`ח`) is shorter than the minimum allowed length (3). 
+error: May/03/2022 16:03:25:E11000 duplicate key error collection: 213257447Chavi&Orit.users index: email_1 dup key: { : "vvvv" } 
+error: May/03/2022 16:04:04:User validation failed: email: this email is not valid 
+error: May/03/2022 16:04:37:User validation failed: email: this email is not valid 
+error: May/03/2022 17:51:27:User validation failed: email: Path `email` (`mn`) is shorter than the minimum allowed length (3). 
+error: May/03/2022 17:51:42:User validation failed: email: this email is not valid 
+error: May/04/2022 10:18:39:User validation failed: email: Path `email` (`cc`) is shorter than the minimum allowed length (3). 
+error: May/04/2022 13:05:53:User validation failed: email: Path `email` is required. 
+error: May/04/2022 13:35:23:Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+error: May/04/2022 13:41:36:Parameter "filter" to findOne() must be an object, got 62725016ff748b90a27086c1 
+error: May/04/2022 13:42:33:Parameter "filter" to findOne() must be an object, got 62725016ff748b90a27086c1 
+error: May/04/2022 13:43:08:Parameter "filter" to findOne() must be an object, got 62725016ff748b90a27086c1 
+error: May/04/2022 14:15:00:User validation failed: email: Path `email` (`qq`) is shorter than the minimum allowed length (3). 
